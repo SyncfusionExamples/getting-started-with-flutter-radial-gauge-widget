@@ -1,16 +1,18 @@
-# myflutterapp
+# Getting started with Flutter Radial Gauge widget
+A quick-start example to help you add the Syncfusion Flutter Gauges package to a Flutter app. You will learn how to add a Radial Gauge widget to a Flutter project. You will learn how to add axis, needle pointer, animation, and ranges in the Radial Gauge. You will also learn how to add annotations, and title to the Radial Gauge.
 
-A new Flutter project.
+Watch the video: Coming soon...
 
-## Getting Started
+Documentation: https://help.syncfusion.com/flutter/radial-gauge/overview
 
-This project is a starting point for a Flutter application.
+## Requirements to run the demo
+* [VS Code](https://code.visualstudio.com/download)
+* [Flutter SDK v2.0.0+](https://flutter.dev/docs/development/tools/sdk/overview)
+* [For more development tools](https://flutter.dev/docs/development/tools/devtools/overview)
 
-A few resources to get you started if this is your first Flutter project:
+## How to run this application
+To run this application, you need to first clone or download the ‘getting started with flutter radial gauge widget’ repository and open it in your preferred IDE. Then, build and run your project to view the output.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Further help
+For more help, check the [Syncfusion Flutter documentation](https://help.syncfusion.com/flutter/introduction/overview), or
+ [Flutter documentation](https://flutter.dev/docs/get-started/install).
